@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-Portfolio.github.io/static/css/main.7ca9a4ee.css",
-    "main.js": "/React-Portfolio.github.io/static/js/main.93c1e56f.js",
+    "main.js": "/React-Portfolio.github.io/static/js/main.5bd2723d.js",
     "static/media/intro-bg.jpg": "/React-Portfolio.github.io/static/media/intro-bg.685296bfafdb21fc8cb9.jpg",
     "static/media/spotify.jpg": "/React-Portfolio.github.io/static/media/spotify.19c486b1eff0919a368d.jpg",
     "static/media/weather.jpg": "/React-Portfolio.github.io/static/media/weather.16afcca0e6f102720296.jpg",
     "static/media/text to voice.jpeg": "/React-Portfolio.github.io/static/media/text to voice.c10af0f33c742918c307.jpeg",
     "index.html": "/React-Portfolio.github.io/index.html",
     "main.7ca9a4ee.css.map": "/React-Portfolio.github.io/static/css/main.7ca9a4ee.css.map",
-    "main.93c1e56f.js.map": "/React-Portfolio.github.io/static/js/main.93c1e56f.js.map"
+    "main.5bd2723d.js.map": "/React-Portfolio.github.io/static/js/main.5bd2723d.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca9a4ee.css",
-    "static/js/main.93c1e56f.js"
+    "static/js/main.5bd2723d.js"
   ]
 }
